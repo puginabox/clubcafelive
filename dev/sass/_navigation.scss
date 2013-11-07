@@ -1,9 +1,5 @@
 
 
-
-
-
-
 .main-nav {
   margin: 10px auto;
   border: 1px solid;
@@ -31,10 +27,6 @@
     @include at-breakpoint($extra-large ) {
 
     }
-
-
-
-
     li {
       a {
         @include single-transition(all, .5s, ease-out);

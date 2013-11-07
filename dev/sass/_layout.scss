@@ -24,65 +24,38 @@ $extra-large          : 68em;
   right: 0;  
 }
 
-header, article, section, nav {
-  margin: 0 auto;
-  padding: 0;
-  text-align: center;
-}
-.banner, .main-nav  {
-  width: 100%;
-  margin: 0 auto;
-  text-align: center;  
-  padding: 0;  
-  left: 0;
-  right: 0;
-}
-.banner img {
-  width: 90%;
-}
-/*=========================== @Header ============================*/
+/*=========================== @DOM ============================*/
+
+
+//------------ @Header -------------------|
 header { 
-  @include span-columns(12 omega,12); 
-  margin: 0 auto;
-  text-align: center;
-  left: 0;
-  right: 0;  
+    @include span-columns(12 omega,12); 
+    margin: 0 auto;
+    text-align: center;
+    left: 0;
+    right: 0;  
 }
 
-/*=========================== @Content ============================*/
-section { 
+//------------ @Events --------------------| 
+#events { 
     @include span-columns(8,12); 
-    height: 500px;
-    background: red;
+    height: auto;
+
 }
 
-.event {
-    @include span-columns(12 emega,12);  
-  height: 150px;
-  padding: 5px 0;
-      background: orange;
-}
-
-/*=========================== @Ads Asides ============================*/
+//------------ @Ads -----------------------| 
 .ads-left { 
     @include span-columns(2,12); 
     height: 500px;
-    background: green;    
+    background: $flatBlue;   
 }
 .ads-right { 
     @include span-columns(2 omega,12); 
     height: 500px;    
-    background: blue;
+    background: $flatBlue;
 }
 
 
-
-
-/*=========================== @Debugging ============================*/
-
-// header, section, nav, .wrapper, .ads-left, .ads-right, .event {
-//     @include susy-grid-background; 
-// }
 
 
 
