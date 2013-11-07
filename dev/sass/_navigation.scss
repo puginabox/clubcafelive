@@ -1,0 +1,60 @@
+
+
+
+
+
+
+.main-nav {
+  margin: 10px auto;
+  border: 1px solid;
+  @include span-columns(12 omega,12);
+  @include at-breakpoint($large) {
+
+  } 
+  h1 {
+    display: none;
+  }
+  ul{
+    @include span-columns(10 omega,12);
+      @include prefix(1);
+      @include suffix(1);    
+    margin: 5px auto;
+
+
+
+    @include at-breakpoint($mobile) {
+        @include horizontal-list;
+    }
+    @include at-breakpoint($tablet) {
+        @include horizontal-list;
+    }
+    @include at-breakpoint($extra-large ) {
+
+    }
+
+
+
+
+    li {
+      a {
+        @include single-transition(all, .5s, ease-out);
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 1.2rem;  
+        font-family: $font-secondary;
+        font-weight: 900;
+        padding: 10px 30px;
+        color: $flatBlue;
+        &:hover {
+            color: $hoverBlue;
+         }
+        @include at-breakpoint($large) {
+            font-size: 1.4rem; 
+        }           
+        @include at-breakpoint($extra-large) {
+            font-size: 1.9rem; 
+        }  
+      } //a
+    } //li
+  } //ul.nav
+} // navigation

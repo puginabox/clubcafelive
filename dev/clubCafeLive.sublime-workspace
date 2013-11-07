@@ -1,0 +1,756 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ne",
+				"neonBlue"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"colr",
+				"coral"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ta",
+				"tangerine"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"wi",
+				"white-transparent"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"white",
+				"white-transparent"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"artc",
+				"article	Tag"
+			],
+			[
+				"neon",
+				"neonBlue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/crunch/Desktop/clubcafelive/index.html",
+			"settings":
+			{
+				"buffer_size": 2473,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_navigation.scss",
+			"settings":
+			{
+				"buffer_size": 1037,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_base.scss",
+			"settings":
+			{
+				"buffer_size": 491,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_fonts.scss",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_colors.scss",
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sass/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 1610,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"ftp",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/crunch/Desktop/clubcafelive/dev/sass/styles.scss",
+		"/Users/crunch/Dropbox/clubcafelive/dev/sass/master.scss",
+		"/Users/crunch/Desktop/griffinbyron/components/sass/_styles.scss",
+		"/Users/crunch/Desktop/griffinbyron/components/sass/master.scss",
+		"/Users/crunch/Desktop/griffinbyron/portfolio-media.html",
+		"/Users/crunch/Desktop/griffinbyron/portfolio-graphic-design.html",
+		"/Users/crunch/Desktop/griffinbyron/components/sass/_styles-mobile.scss",
+		"/Users/crunch/Desktop/griffinbyron/components/sass/_layout.scss",
+		"/Users/crunch/Desktop/griffinbyron/.gitignore",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/index.html",
+		"/Users/crunch/Dropbox/slideshow-portfolio/index.html",
+		"/Users/crunch/Dropbox/codepen_eFEng/index.html",
+		"/Users/crunch/Dropbox/slideshow-portfolio/_/components/sass/_variables.scss",
+		"/Users/crunch/Dropbox/slideshow-portfolio/_/components/sass/_colors.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/_colors.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/_navigation.scss",
+		"/Users/crunch/Dropbox/slideshow-portfolio/.gitignore",
+		"/Users/crunch/Dropbox/sassycompass/_/components/sass/_layout.scss",
+		"/Users/crunch/Dropbox/sassycompass/_/components/sass/_modules.scss",
+		"/Users/crunch/Dropbox/sassycompass/_/components/sass/styles.scss",
+		"/Users/crunch/Dropbox/sassycompass/_/components/sass/_mixins.scss",
+		"/Users/crunch/Dropbox/slideshow-portfolio/_/components/sass/_styles.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/js/behavior-portfolio.js",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/portfolio-art.html",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/_styles-portfolio.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/master.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/_images.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/master-portfolio.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/_base.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/_modules.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/_styles.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/config.rb",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/portfolio-ux.html",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/portfolio-graphic-design.html",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/portfolio-media.html",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/_fonts.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/css/master.css",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/ftpsync.settings",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/index1.html",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/index-mobile2.html",
+		"/Users/crunch/Dropbox/add this carousel to scholarhero & go!/styles-carousel.css",
+		"/Users/crunch/Dropbox/add this carousel to scholarhero & go!/index.html",
+		"/Users/crunch/Dropbox/carouFredSel works!!!/behavior.js",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/mixins.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/navigation.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/portfolio-styles.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/images.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/sass/styles.scss",
+		"/Users/crunch/Google Drive/griffinbyron.com/griffinbyron/js/behavior.js",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/js/behavior-portfolio.js",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/sass/navigation.scss",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/sass/styles-portfolio.scss",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/js/behaviorGallery.js",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/portfolio2.html",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/portfolio3.html",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/portfolio.html",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/sass/images.scss",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/sass/styles.scss",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/js/behavior.js",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/index.html",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/index4.html",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/sass/master.scss",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/sass/grids.scss",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron-old/sass/websites.scss",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/index2.html",
+		"/Users/crunch/Dropbox/griffinbyron.com/griffinbyron/sass/main-nav.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".jpg",
+			"http://dribbble.s3.amazonaws.com/users/",
+			"http://dribbble.s3.amazonaws.com/users/87481/",
+			".6",
+			"	background-color: rgba(204,204,204,.6);",
+			"333",
+			"50%",
+			"75",
+			"333",
+			"scholarhero",
+			"https://cdn1.iconfinder.com/data/icons/ballicons-free/128/",
+			"div",
+			"4",
+			"../img",
+			"../",
+			"<b>",
+			"-transparent",
+			"{\n",
+			"20px",
+			"sorting",
+			"</h5>\n              </div>                            ",
+			"$white-transparent",
+			"scholarhero",
+			"Scholarhero",
+			"scholarhero",
+			"Scholarhero",
+			"scholarhero",
+			"72px",
+			"150px",
+			"100px",
+			"padding",
+			"70px",
+			"img",
+			"pager",
+			"</span>",
+			"<span>",
+			"nav-btn",
+			"nav",
+			"ipaint",
+			"-nav",
+			"portfolio",
+			"100",
+			"6",
+			"0.4",
+			"2px",
+			"blur",
+			";",
+			"transition",
+			"tangerine",
+			";\n",
+			"tangerine",
+			"3",
+			"</li>",
+			"ul",
+			"<img",
+			"photos/",
+			"includes",
+			"scholarhero",
+			"right",
+			"left",
+			"3",
+			"stats",
+			"nav-sub",
+			"left",
+			"h4",
+			"portfolio",
+			".f",
+			".",
+			"strip",
+			"fourths",
+			"h1",
+			"h2",
+			"class",
+			"xxxx",
+			"blob",
+			"p",
+			"portfolio",
+			"h3",
+			"h1",
+			"design",
+			"16",
+			"8",
+			"78px",
+			"ery/",
+			"5",
+			"6",
+			"5",
+			"thumbnail_container",
+			"container",
+			"thumbnail_container",
+			"photos",
+			".fourth",
+			"#campy",
+			"@design",
+			">\n",
+			"circle",
+			"<span class=\"dude\"",
+			"experience",
+			"white-transparent",
+			"h4",
+			"p",
+			"h2",
+			"col col-span-6",
+			"p>",
+			"p",
+			"3",
+			"h2",
+			"section",
+			"h2",
+			"p",
+			"h1",
+			"h2",
+			"class=\"stats-circle\"",
+			"h1",
+			"btn",
+			"thumbnail_container",
+			"design",
+			"p",
+			"h2",
+			"h1",
+			"design",
+			"h1",
+			"clearFixit",
+			"clear_both",
+			"<a href=\"#mobile\" class=\"back-btn\">back</a>",
+			">\n",
+			"<a href=\"#mobile\" class=\"back-btn\">back</a>",
+			"<div class=\"clearFixit\"></div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/crunch/Desktop/clubcafelive/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "sass/_navigation.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/_fonts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sass/_colors.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sass/_mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "sass/_layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "clubCafeLive.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
